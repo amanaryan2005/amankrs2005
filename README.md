@@ -31,7 +31,7 @@
 
 <div align="center">
   
-  [![GitHub](https://img.shields.io/badge/GitHub-amankrs2005-000?style=for-the-badge&logo=github&logoColor=00D9FF&color=0D1117)](https://github.com/amanaryan2005)
+  [![GitHub](https://img.shields.io/badge/GitHub-amanaryan2005-000?style=for-the-badge&logo=github&logoColor=00D9FF&color=0D1117)](https://github.com/amanaryan2005)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-amankrs2005-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amankrs2005/)
   [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amankrs2005@gmail.com)
   
