@@ -6,8 +6,8 @@
 
 <div align="center">
   
-  [![GitHub followers](https://img.shields.io/github/followers/amankrs2005?logo=github&style=for-the-badge&color=00D9FF&logoColor=white)](https://github.com/amankrs2005)
-  [![Profile views](https://komarev.com/ghpvc/?username=amankrs2005&color=00D9FF&style=for-the-badge)](https://github.com/amankrs2005)
+  [![GitHub followers](https://img.shields.io/github/followers/amankrs2005?logo=github&style=for-the-badge&color=00D9FF&logoColor=white)](https://github.com/amanaryan2005)
+  [![Profile views](https://komarev.com/ghpvc/?username=amankrs2005&color=00D9FF&style=for-the-badge)](https://github.com/amanaryan2005)
   
 </div>
 
