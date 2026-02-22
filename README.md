@@ -1,71 +1,167 @@
-# 👋 Hi, I'm Aman Kumar
+# Hi there, I'm **Aman** 👋
 
-🚀 Frontend Engineer Intern | Website Developer Intern | Applied Data Science Lab Contributor  
-🎓 B.Tech in Information Technology, University of Kalyani (2024 – 2028)  
-📍 Kolkata, India  
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&background=0D1117&center=true&vCenter=true&width=800&height=100&lines=🚀+B.Tech+IT+Student+at+University+of+Kalyani;💻+MERN+Stack+Developer+%26+Founder+of+Chatlie;🏆+GATE+CSE+Aspirant;🤖+ML+%26+AI+Enthusiast;⚡+Building+Scalable+Web+Applications" alt="Typing SVG" />
+</div>
 
----
-
-## 🔗 Connect with Me
-- 📧 Email: [amankrs2005@gmail.com](mailto:amankrs2005@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/amankrs2005](https://linkedin.com/in/amankrs2005)  
-- 🖥️ GitHub: [github.com/amankrs2005](https://github.com/amankrs2005)  
-
----
-
-## 💻 Technical Skills
-- **Languages:** Python, FastAPI, C, SQL (Postgres), JavaScript, TypeScript, HTML/CSS  
-- **Frameworks:** React, Next.js, Node.js, Express.js, WordPress, REST API  
-- **Tools:** Git, GitHub, VS Code, Data Structures, AI integrations  
-- **Libraries:** ReactJS  
+<div align="center">
+  
+  [![GitHub followers](https://img.shields.io/github/followers/amankrs2005?logo=github&style=for-the-badge&color=00D9FF&logoColor=white)](https://github.com/amankrs2005)
+  [![Profile views](https://komarev.com/ghpvc/?username=amankrs2005&color=00D9FF&style=for-the-badge)](https://github.com/amankrs2005)
+  
+</div>
 
 ---
 
-## 🛠️ Experience
-- **Frontend Engineer Intern @ Yovarc (2025)**  
-  Built full-stack applications with MERN stack, responsive UIs, and RESTful API integrations.  
-
-- **Website Developer Intern @ Dovoo Edutech (2025)**  
-  Designed responsive web apps with React, CSS, and JavaScript, optimizing UX with animations.  
-
-- **Applied Data Science Lab @ WorldQuant University (2024 – 2025)**  
-  Created interactive dashboards, APIs, and statistical experiment pipelines.  
-
----
-
-## 📂 Projects
-- **Backend API (2025 – Present)**  
-  - REST API with Express.js and React frontend  
-  - GitHub OAuth integration for repo analysis  
-  - Interactive dashboards for collaboration patterns  
-  - Async task management with Celery + Redis  
-
-- **Applier Frontend (2025 – Present)**  
-  - Component-based SPA using React  
-  - Responsive UI with reusable components  
-  - Smooth navigation and optimized rendering  
-
-- **Gemini Bot (2026 – Present)**  
-  - AI-powered chatbot using FastAPI + Streamlit  
-  - Real-time communication between frontend & backend  
-  - Scalable deployment pipeline  
+<div align="center">
+  
+  ### 🎓 B.Tech Candidate • University of Kalyani | 💻 MERN Stack Developer | 🤖 ML Enthusiast
+  
+  > *"The best way to predict the future is to invent it."* – Alan Kay
+  
+  **Passionate about Web Development, Artificial Intelligence, and Data Structures**
+  
+  Building full-stack web applications | Preparing for GATE CSE | Scaling startup ideas
+  
+</div>
 
 ---
 
-## 📜 Certifications
-- OCI DevOps Professional (2025)  
-- Product Management: Basic Certification (2025)  
-- Product Led Certification (2025)  
-- Business Analyst Foundation (2025)  
+## 🌐 Connect & Follow
+
+<div align="center">
+  
+  [![GitHub](https://img.shields.io/badge/GitHub-amankrs2005-000?style=for-the-badge&logo=github&logoColor=00D9FF&color=0D1117)](https://github.com/amankrs2005)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-amankrs2005-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amankrs2005/)
+  [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amankrs2005@gmail.com)
+  
+</div>
 
 ---
 
-## 🌟 Interests
-- Backend & ML projects (recommendation systems, classifiers)  
-- Debugging and optimizing full-stack apps  
-- Polished UI/UX design for recruiter-ready projects  
-- Resume formatting with LaTeX for professional impact  
+## 📊 GitHub Stats & Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amankrs2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=00D9FF&rank_icon=github&line_height=27&v=2.0" alt="Aman's GitHub Stats" width="48%" />
+  
+  <img src="https://streak-stats.demolab.com/?user=amankrs2005&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00D9FF&sideLabels=00D9FF&v=2.0" alt="GitHub Streak" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amankrs2005&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&hide_border=true&area=true&v=2.0" alt="Contribution Graph" width="100%" />
+</div>
 
 ---
 
-⭐️ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
+## 🛠️ Tech Stack & Expertise
+
+### 💻 **Languages & Core**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,javascript,typescript,html,css" alt="Languages"/>
+</div>
+
+### 🌐 **Web & Backend**
+<div align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+</div>
+
+### 🗄️ **Databases & Tools**
+<div align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+</div>
+
+---
+
+## 🎯 Featured Projects
+
+### 🚀 **Full-Stack & Web Development**
+
+<div align="center">
+
+| 🎯 Project | 📝 Description | 🛠️ Stack |
+|:---|:---|:---|
+| **Chatlie** | Dating application startup focused on seamless connections. | MERN Stack |
+| **🔗 Backend API** | Full-stack web application serving a REST API with GitHub OAuth integration and interactive collaboration dashboards. | REST API, Express, React, Redis, Celery |
+| **📱 Applier Frontend** | Dynamic, component-based single-page application engineered with a responsive UI and optimized rendering. | React, React-dom |
+
+</div>
+
+---
+
+### 🤖 **Machine Learning & AI**
+
+<div align="center">
+
+| 🎯 Project | 📝 Description | 🛠️ Stack |
+|:---|:---|:---|
+| **🧠 Gemini Bot** | AI-powered chatbot leveraging the Gemini API with real-time communication and an interactive visual interface. | Python, FastAPI, Streamlit |
+
+</div>
+
+---
+
+## 💼 Experience & Internships
+
+<div align="center">
+
+| Role | Company | Details |
+|:---|:---|:---|
+| **Frontend Engineer Intern** | Yovare | Assisted in building full-stack applications and developed responsive UIs with RESTful API integrations. |
+| **Applied Data Science Lab** | Worldquant University | Created interactive dashboards for statistical experiments and built APIs for insights. |
+| **Website Developer Intern** | Dovoo Edutech | Crafted responsive web applications and implemented dynamic interfaces with scroll-based animations. |
+
+</div>
+
+---
+
+## 🏆 Achievements & Recognition
+
+<div align="center">
+
+| Achievement | Details |
+|:---|:---|
+| 🎯 **Career Tech Academy** | Shortlisted for the PayPal Career Tech Academy program |
+| 🎓 **B.Tech IT** | Pursuing Information Technology at University of Kalyani |
+| 📜 **Certifications** | OCI DevOps Professional (2025), Product Management: Basic Certification (2025) |
+| 📜 **Certifications** | Product Led Certification (2025), Business Analyst Foundation (2025) |
+
+</div>
+
+---
+
+## 🎯 Current Focus & Roadmap
+
+<div align="center">
+
+🧠 **Short Term**
+- Dedicated preparation for the GATE CSE exam
+- Deepening knowledge in C/C++ data structures and numerical methods
+- Expanding AI/ML fundamentals
+
+⚡ **Medium Term**
+- Growing and scaling my startup, Chatlie
+- Building more complex MERN stack applications
+- Completing advanced product management certifications
+
+</div>
+
+---
+
+## 📞 Contact & Social Links
+
+<div align="center">
+
+| Platform | Link |
+|:---|:---|
+| 💼 **LinkedIn** | [amankrs2005](https://linkedin.com/in/amankrs2005/) |
+| 📧 **Email** | [amankrs2005@gmail.com](mailto:amankrs2005@gmail.com) |
+| 💻 **GitHub** | [amankrs2005](https://github.com/amankrs2005
