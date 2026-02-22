@@ -39,21 +39,6 @@
 
 ---
 
-## 📊 GitHub Stats & Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amankrs2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=00D9FF&rank_icon=github&line_height=27&v=2.0" alt="Aman's GitHub Stats" width="48%" />
-  
-  <img src="https://streak-stats.demolab.com/?user=amankrs2005&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00D9FF&sideLabels=00D9FF&v=2.0" alt="GitHub Streak" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amankrs2005&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&hide_border=true&area=true&v=2.0" alt="Contribution Graph" width="100%" />
-</div>
-
----
 
 ## 🛠️ Tech Stack & Expertise
 
