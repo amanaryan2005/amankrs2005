@@ -1,7 +1,7 @@
 # Hi there, I'm **Aman** 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&background=0D1117&center=true&vCenter=true&width=800&height=100&lines=🚀+B.Tech+IT+Student+at+University+of+Kalyani;💻+MERN+Stack+Developer+%26+Founder+of+Chatlie;🏆+GATE+CSE+Aspirant;🤖+ML+%26+AI+Enthusiast;⚡+Building+Scalable+Web+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&background=0D1117&center=true&vCenter=true&width=800&height=100&lines=🚀+B.Tech+IT+Student+at+University+of+Kalyani;💻+MERN+Stack+Developer+%26+Founder+of+Chatpie;🏆+GATE+CSE+Aspirant;🤖+ML+%26+AI+Enthusiast;⚡+Building+Scalable+Web+Applications" alt="Typing SVG" />
 </div>
 
 <div align="center">
